@@ -1,27 +1,36 @@
-# [CDV03] Starter CV for Software Development Role
-
-Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resume for software development roles. This project guides you through the process of creating or refining your CV to effectively showcase your technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
-
-## Project Overview
-
-The goal is to craft a clear, concise, and compelling resume that not only reflects your qualifications but also emphasises your suitability for software development positions. This involves presenting your information in a professional format that captures the attention of hiring managers in the tech industry.
-
-### Practical Steps for the Project
-
-1. **Gather and Organise Information**: Compile all relevant professional experiences, technical skills, educational achievements, and projects.
-2. **Contact Information**: Ensure your full name, phone number, professional email, and LinkedIn URL are prominently displayed at the top of your resume.
-3. **Professional Experience**: List your work history, focusing on roles and projects relevant to software development. Highlight your contributions and achievements.
-4. **Technical Skills**: Detail your proficiency in programming languages, frameworks, and tools, especially those pertinent to the job you're aiming for.
-5. **Education and Certifications**: Outline your educational background and any additional training or certifications related to software development.
-6. **Projects Portfolio**: Showcase significant projects to demonstrate your practical experience and technical abilities.
-
-### Submission Guidelines
-1. Finalise your resume in Google Docs format to ensure consistent formatting.
-2. Name your document following the specified format (e.g., "StudentNo_Classcode_Group_Name-Surname_CDV03").
-3. Add the link to your Google Docs resume in this README.
-4. Submit the link to your GitHub Repo via the LMS Project Tab by the submission deadline.
+#PHIBOG534_BCL2401_E02_Phillip-Bogopane_CDV03
 
 ### Link to Resume
-[Your Google Docs Resume](<insert your Google Docs link here>)
 
-This README provides you with a clear outline of the project objectives and submission guidelines. Remember to replace `<insert your Google Docs link here>` with the actual link to your Google Docs resume before submitting. The completion of this project will leave you with a polished CV, ready to be presented to potential employers in the tech industry. Good luck!
+#Google Docs Resumé link [https://docs.google.com/document/d/1DUhltzQhAf9K7h8_A7QZ8UGhHJ_1wA60uz5TwzR-7Ck/edit?usp=sharing] Starter CV for Software Development Role
+
+Welcome to the GitHub repository for the [CDV03] project, focused on developing a standout resumé for software development roles. This project guides you through the process of creating my CV to effectively showcasing my technical skills, professional experiences, and educational background, specifically tailored for opportunities in software development, with an emphasis on front-end technologies like React.js.
+
+
+# Software Engineering Bootcamp Portfolio
+
+## Overview
+This repository showcases my journey as a software engineering bootcamp , highlighting my technical skills, projects, and educational background. 
+
+## Technologies Used
+* Microsoft Word.
+* GitHub.
+* DocsGoogle.
+
+## Styling
+The projects included in this portfolio demonstrate my proficiency in front-end development and design using HTML, CSS, and JavaScript.
+
+## Areas for Improvement
+1. Testing: I aim to enhance my skills in writing comprehensive test cases to ensure the reliability and functionality of my applications.
+
+## Challenges Faced
+Throughout my bootcamp experience, I encountered challenges such as integrating complex features, managing project timelines, and debugging code. These obstacles have strengthened my problem-solving abilities and perseverance.
+
+## Reflections
+My software engineering bootcamp journey has been a rewarding experience, allowing me to delve into various programming languages and frameworks. I have grown both technically and professionally, and I am excited to continue expanding my skills in the field of software development.
+
+## Conclusion
+This README.md provides an overview of my background, skills, and projects as a software engineering bootcamp graduate. I am eager to contribute to innovative software solutions and collaborate with like-minded professionals in the industry. Thank you for exploring my portfolio!
+
+
+
